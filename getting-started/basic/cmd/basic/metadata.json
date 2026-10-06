@@ -1,0 +1,11 @@
+{
+  "name": "Basic example",
+  "slug": "basic",
+  "version": "1.5.7",
+  "description": "Basic example to get system information",
+  "entry_point": "basic",
+  "permissions": [
+    "SystemService/*"
+  ],
+  "package_id": "org.orbit-os.examples.basic"
+}

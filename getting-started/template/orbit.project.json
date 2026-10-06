@@ -1,0 +1,7 @@
+{
+  "language": "go",
+  "name": "template",
+  "appPath": "cmd/template",
+  "certsDir": "cmd/certs/grpc",
+  "sdkVersion": "v26.0.3"
+}

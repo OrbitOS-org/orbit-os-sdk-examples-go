@@ -1,0 +1,7 @@
+{
+  "language": "go",
+  "name": "hello_web",
+  "appPath": "cmd/hello_web",
+  "certsDir": "cmd/certs/grpc",
+  "sdkVersion": "v26.0.3"
+}

@@ -1,0 +1,7 @@
+{
+  "language": "go",
+  "name": "camera_snapshot",
+  "appPath": "cmd/camera_snapshot",
+  "certsDir": "cmd/certs/grpc",
+  "sdkVersion": "v26.0.3"
+}

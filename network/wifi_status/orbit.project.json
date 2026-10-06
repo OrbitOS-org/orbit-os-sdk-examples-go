@@ -1,0 +1,7 @@
+{
+  "language": "go",
+  "name": "wifi_status",
+  "appPath": "cmd/wifi_status",
+  "certsDir": "cmd/certs/grpc",
+  "sdkVersion": "v26.0.3"
+}

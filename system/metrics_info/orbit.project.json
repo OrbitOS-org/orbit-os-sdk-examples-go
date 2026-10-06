@@ -1,0 +1,7 @@
+{
+  "language": "go",
+  "name": "metrics_info",
+  "appPath": "cmd/metrics_info",
+  "certsDir": "cmd/certs/grpc",
+  "sdkVersion": "v26.0.3"
+}

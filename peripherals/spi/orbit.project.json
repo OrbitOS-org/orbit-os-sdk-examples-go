@@ -1,0 +1,7 @@
+{
+  "language": "go",
+  "name": "spi",
+  "appPath": "cmd/spi",
+  "certsDir": "cmd/certs/grpc",
+  "sdkVersion": "v26.0.3"
+}

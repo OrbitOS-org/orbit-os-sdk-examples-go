@@ -1,0 +1,7 @@
+{
+  "language": "go",
+  "name": "pwm",
+  "appPath": "cmd/pwm",
+  "certsDir": "cmd/certs/grpc",
+  "sdkVersion": "v26.0.3"
+}

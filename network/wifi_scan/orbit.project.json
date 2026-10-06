@@ -1,0 +1,7 @@
+{
+  "language": "go",
+  "name": "wifi_scan",
+  "appPath": "cmd/wifi_scan",
+  "certsDir": "cmd/certs/grpc",
+  "sdkVersion": "v26.0.3"
+}

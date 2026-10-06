@@ -1,0 +1,11 @@
+{
+  "name": "System metrics example",
+  "slug": "metrics_info",
+  "version": "1.0.0",
+  "description": "Fetch and print GetMetrics snapshot (CPU, memory, thermal, disk, network)",
+  "entry_point": "metrics_info",
+  "permissions": [
+    "SystemService/*"
+  ],
+  "package_id": "org.orbit-os.examples.metrics_info"
+}

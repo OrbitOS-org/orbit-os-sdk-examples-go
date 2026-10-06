@@ -1,0 +1,7 @@
+{
+  "language": "go",
+  "name": "pwm_fade",
+  "appPath": "cmd/pwm_fade",
+  "certsDir": "cmd/certs/grpc",
+  "sdkVersion": "v26.0.3"
+}

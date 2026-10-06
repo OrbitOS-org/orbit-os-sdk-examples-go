@@ -1,0 +1,7 @@
+{
+  "language": "go",
+  "name": "uart",
+  "appPath": "cmd/uart",
+  "certsDir": "cmd/certs/grpc",
+  "sdkVersion": "v26.0.3"
+}

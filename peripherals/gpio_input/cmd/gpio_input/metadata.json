@@ -1,0 +1,12 @@
+{
+  "name": "GPIO input example",
+  "slug": "gpio_input",
+  "version": "1.0.0",
+  "description": "Wait for GPIO24 (input) to go high, then print done",
+  "entry_point": "gpio_input",
+  "permissions": [
+    "SystemService/*",
+    "GpioService/*"
+  ],
+  "package_id": "org.orbit-os.examples.gpio_input"
+}

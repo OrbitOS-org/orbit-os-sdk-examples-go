@@ -1,0 +1,12 @@
+{
+  "name": "I2C example",
+  "slug": "i2c",
+  "version": "1.0.0",
+  "description": "List I2C buses, scan addresses, read bus configuration",
+  "entry_point": "i2c",
+  "permissions": [
+    "SystemService/*",
+    "I2CService/*"
+  ],
+  "package_id": "org.orbit-os.examples.i2c"
+}

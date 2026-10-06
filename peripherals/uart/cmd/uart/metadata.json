@@ -1,0 +1,12 @@
+{
+  "name": "UART example",
+  "slug": "uart",
+  "version": "1.0.0",
+  "description": "Open UART port and stream RX to stdout",
+  "entry_point": "uart",
+  "permissions": [
+    "SystemService/*",
+    "UartService/*"
+  ],
+  "package_id": "org.orbit-os.examples.uart"
+}

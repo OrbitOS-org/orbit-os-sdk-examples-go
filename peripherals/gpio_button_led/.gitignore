@@ -1,0 +1,14 @@
+# TLS certificates and keys — never commit
+**/certs/grpc/*.crt
+**/certs/grpc/*.key
+# build output
+packages/
+*.orb
+/bin/
+# local SDK copy downloaded by Orbit Studio
+orbit-os-sdk-go/
+go.work.sum
+# local Orbit Studio settings
+orbit.project.local.json
+.vscode/
+.DS_Store

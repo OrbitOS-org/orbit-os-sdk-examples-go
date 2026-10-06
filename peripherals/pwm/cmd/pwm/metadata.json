@@ -1,0 +1,12 @@
+{
+  "name": "PWM example",
+  "slug": "pwm",
+  "version": "1.0.0",
+  "description": "List PWM channels and set duty cycle on the first channel",
+  "entry_point": "pwm",
+  "permissions": [
+    "SystemService/*",
+    "PwmService/*"
+  ],
+  "package_id": "org.orbit-os.examples.pwm"
+}

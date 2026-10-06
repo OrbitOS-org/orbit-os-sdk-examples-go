@@ -1,0 +1,7 @@
+{
+  "language": "go",
+  "name": "eth_status",
+  "appPath": "cmd/eth_status",
+  "certsDir": "cmd/certs/grpc",
+  "sdkVersion": "v26.0.3"
+}
