@@ -1,0 +1,7 @@
+{
+  "language": "go",
+  "name": "notification_options",
+  "appPath": "cmd/notification_options",
+  "certsDir": "cmd/certs/grpc",
+  "sdkVersion": "v26.1.0"
+}

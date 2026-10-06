@@ -1,0 +1,7 @@
+{
+  "language": "go",
+  "name": "device_certification",
+  "appPath": "cmd/device_certification",
+  "certsDir": "cmd/certs/grpc",
+  "sdkVersion": "v26.1.0"
+}

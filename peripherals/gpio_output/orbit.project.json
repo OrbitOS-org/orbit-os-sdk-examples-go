@@ -3,5 +3,5 @@
   "name": "gpio_output",
   "appPath": "cmd/gpio_output",
   "certsDir": "cmd/certs/grpc",
-  "sdkVersion": "v26.0.3"
+  "sdkVersion": "v26.1.0"
 }

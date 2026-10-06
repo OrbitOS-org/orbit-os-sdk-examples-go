@@ -2,7 +2,7 @@ module github.com/OrbitOS-org/orbit-os-sdk-examples-go/network/wifi_status
 
 go 1.25.4
 
-require github.com/OrbitOS-org/orbit-os-sdk-go/v26 v26.0.3
+require github.com/OrbitOS-org/orbit-os-sdk-go/v26 v26.1.0
 
 require (
 	golang.org/x/net v0.51.0 // indirect

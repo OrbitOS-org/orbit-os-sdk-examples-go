@@ -1,0 +1,11 @@
+{
+  "name": "Device Certification",
+  "slug": "device_certification",
+  "version": "1.0.0",
+  "description": "Checks whether the device is certified hardware and reads its certification serial",
+  "entry_point": "device_certification",
+  "permissions": [
+    "SystemService/*"
+  ],
+  "package_id": "org.orbit-os.examples.device_certification"
+}

@@ -1,0 +1,7 @@
+{
+  "language": "go",
+  "name": "mobile_notification",
+  "appPath": "cmd/mobile_notification",
+  "certsDir": "cmd/certs/grpc",
+  "sdkVersion": "v26.1.0"
+}
